@@ -1,8 +1,5 @@
-======================================================================
 Lisez-moi Snowy'
-======================================================================
-
-
+----------------------------------------------------------------------
  Pour les dernières mises à jour de ce fichier readme, voir  (mettre un lien vers le "README" sur github)
 
  Ce fichier contient des informations importantes à propos du bot discord Snowy'. Veuillez les lire avec attention avant de l'utiliser.
